@@ -4,3 +4,4 @@
    + Simple Linear Regression
    + Regression with Neural Networks
    + Regression with Data Engineering
+   + Classification with Data Engineering
